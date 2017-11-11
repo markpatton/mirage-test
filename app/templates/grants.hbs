@@ -1,0 +1,7 @@
+<h2>Grants</h2>
+
+<ul>
+  {{#each model as |grant|}}
+    <li>{{grant.agency}}:{{grant.number}} ({{grant.creator.username}})</li>
+  {{/each}}
+</ul>
