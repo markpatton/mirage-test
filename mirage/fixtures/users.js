@@ -1,12 +1,12 @@
 export default [
   {
-    id: '1',
+    id: 1,
     username: 'mark'
   }, {
-    id: '2',
+    id: 2,
     username: 'david'
   }, {
-    id: '3',    
+    id: 3,    
     username: 'richard'
   }
 ];
